@@ -2,8 +2,8 @@
   <section class="container">
     <h1>dalton saffe</h1>
     <div class="links">
-      <nuxt-link to="/internet/menu">internet</nuxt-link>
       <nuxt-link to="/blog/hello">blog</nuxt-link>
+      <nuxt-link to="/internet/menu">internet</nuxt-link>
       <a href="mailto:daltonsaffe@gmail.com">contact</a>
     </div>
   </section>

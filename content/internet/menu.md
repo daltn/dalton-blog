@@ -3,7 +3,8 @@ title: internet
 description: creating internet
 ---
 
-- [Art Camp Library](https://artcamplibrary.com/)
-- [Money Cat Records](http://moneycatrecs.com/)
-- [Nudity For Beginners](https://nudityforbeginners.com/)
+- [rave.cafe](https://rave.cafe/)
+- [art camp library](https://artcamplibrary.com/)
+- [money cat records](http://moneycatrecs.com/)
+- [nudity for beginners](https://nudityforbeginners.com/)
 - [m0n0synth](http://www.m0n0synth.com/)
