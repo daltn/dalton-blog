@@ -27,17 +27,21 @@ html {
 
 .container {
   margin: 0 auto;
-  min-height: 100vh;
-  display: flex;
   color: #fff;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   max-width: 800px;
+  margin: 10%;
 }
 
 h1 {
   font-size: 4rem;
-  font-weight: 300;
+  font-weight: 400;
   letter-spacing: 1px;
   color: #fff;
+  margin-bottom: 2rem;
+}
+
+p {
+  margin: 1rem 0;
 }
 </style>

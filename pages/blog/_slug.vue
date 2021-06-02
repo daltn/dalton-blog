@@ -1,5 +1,6 @@
 <template>
-  <article class="blog-container">
+  <article class="container">
+    <h1>{{ article.title }}</h1>
     <nuxt-content :document="article" />
   </article>
 </template>
@@ -7,17 +8,11 @@
 <script>
 export default {
   async asyncData({ $content, params }) {
-    const article = await $content('internet', params.slug).fetch()
+    const article = await $content('blog', params.slug).fetch()
 
     return { article }
   },
 }
 </script>
 
-<style>
-.container {
-  margin: 20%;
-  color: #fff;
-  font-size: 1.5rem;
-}
-</style>
+<style></style>
