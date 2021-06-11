@@ -44,4 +44,22 @@ h1 {
 p {
   margin: 1rem 0;
 }
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 20px 0;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(125, 238, 204);
+}
+
+a:hover {
+  text-decoration: underline;
+}
 </style>
