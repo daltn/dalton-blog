@@ -1,7 +1,7 @@
 <template>
   <article class="container">
     <h1>{{ article.title }}</h1>
-    <p>{{ formatDate(article.updatedAt) }}</p>
+    <p class="date">{{ formatDate(article.updatedAt) }}</p>
     <nuxt-content :document="article" />
   </article>
 </template>
@@ -22,4 +22,9 @@ export default {
 }
 </script>
 
-<style></style>
+<style>
+.date {
+  padding-bottom: 5px;
+  border-bottom: 1px solid rgb(125, 238, 204);
+}
+</style>
