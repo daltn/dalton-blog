@@ -6,6 +6,13 @@
         <a href="https://rave.cafe/" rel="noopener noreferrer">rave.cafe</a>
       </li>
       <li>
+        <a
+          href="http://harmanexplore-internal-dev.icontechstudio.com.s3-website-us-east-1.amazonaws.com/car_audio/"
+          rel="noopener noreferrer"
+          >harman explore</a
+        >
+      </li>
+      <li>
         <a href="https://artcamplibrary.com" rel="noopener noreferrer"
           >art camp library</a
         >
