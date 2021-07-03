@@ -40,7 +40,7 @@ Xcode CLI tools: `xcode-select —-install`
 
 ### Source Control
 
-[Git](https://git-scm.com/) is installed with the Xcode CLI tools which is my source control for code changes. [Github](https://github.com/) is where I push those changes to collaborate with others. I use [Gitlab](https://about.gitlab.com/) at work which is also fantastic. Github is a better place to start on IMO since the open source community is centered around it. You can learn so much from looking at / working on open source software so def have fun with that :)
+[Git](https://git-scm.com/) is installed with the Xcode CLI tools which is my source control for code changes. [Github](https://github.com/) is where I push those changes to collaborate with others. I use [Gitlab](https://about.gitlab.com/) at work which is also fantastic and offers free private repos. Github is a better place to start on IMO since the open source community is centered around it. You can learn so much from looking at / working on open source software so def have fun with that :)
 
 ### Text Editor
 
