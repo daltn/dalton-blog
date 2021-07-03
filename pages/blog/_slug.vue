@@ -27,4 +27,12 @@ export default {
   padding-bottom: 5px;
   border-bottom: 1px solid rgb(125, 238, 204);
 }
+code {
+  padding: 5px;
+  border: 1px solid #fff;
+}
+img {
+  width: 100%;
+  height: auto;
+}
 </style>
