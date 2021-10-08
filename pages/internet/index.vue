@@ -3,34 +3,25 @@
     <h1>internet</h1>
     <ul>
       <li>
-        <a href="https://rave.cafe/" rel="noopener noreferrer">rave.cafe</a>
+        <nuxt-link to="/internet/rave-cafe">rave.cafe</nuxt-link>
       </li>
       <li>
-        <a
-          href="http://harmanexplore-internal-dev.icontechstudio.com.s3-website-us-east-1.amazonaws.com/car_audio/"
-          rel="noopener noreferrer"
-          >harman explore</a
+        <nuxt-link to="/internet/art-camp-library">art camp library</nuxt-link>
+      </li>
+      <li>
+        <nuxt-link to="/internet/id-metro"
+          >interior design & metropolis</nuxt-link
+        >
+      </li>
+      <li><nuxt-link to="/internet/harman">harman explore</nuxt-link></li>
+      <li><nuxt-link to="/internet/money-cat">money cat records</nuxt-link></li>
+      <li>
+        <nuxt-link to="/internet/nudity-for-beginners"
+          >nudity for beginners</nuxt-link
         >
       </li>
       <li>
-        <a href="https://artcamplibrary.com" rel="noopener noreferrer"
-          >art camp library</a
-        >
-      </li>
-      <li>
-        <a href="http://moneycatrecs.com" rel="noopener noreferrer"
-          >money cat records</a
-        >
-      </li>
-      <li>
-        <a href="https://nudityforbeginners.com" rel="noopener noreferrer"
-          >nudity for beginners</a
-        >
-      </li>
-      <li>
-        <a href="http://www.m0n0synth.com" rel="noopener noreferrer"
-          >m0n0synth</a
-        >
+        <nuxt-link to="/internet/m0n0synth">m0n0synth</nuxt-link>
       </li>
     </ul>
   </article>
@@ -39,13 +30,13 @@
 <script></script>
 
 <style scoped>
-a {
+li > a {
   color: rgb(125, 238, 204);
   text-decoration: none;
   padding: 10px;
   transition: all 420ms ease-out;
 }
-a:hover {
+li > a:hover {
   background: rgb(125, 238, 204);
   color: #131313;
   transition: all 420ms ease-in;

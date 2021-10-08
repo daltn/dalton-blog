@@ -9,7 +9,7 @@ html {
   font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
     Roboto, 'Helvetica Neue', Arial, sans-serif;
   font-size: 16px;
-  word-spacing: 1px;
+  line-height: 26px;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   -moz-osx-font-smoothing: grayscale;
@@ -34,11 +34,18 @@ html {
 }
 
 h1 {
-  font-size: 4rem;
+  font-size: 60px;
+  line-height: 65px;
   font-weight: 400;
   letter-spacing: 1px;
   color: #fff;
   margin-bottom: 2rem;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  margin: 2rem 0;
 }
 
 p {
@@ -61,5 +68,18 @@ a {
 
 a:hover {
   text-decoration: underline;
+}
+
+.box-link {
+  color: rgb(125, 238, 204);
+  text-decoration: none;
+  padding: 10px;
+  transition: all 420ms ease-out;
+}
+
+.box-link:hover {
+  background: rgb(125, 238, 204);
+  color: #131313;
+  transition: all 420ms ease-in;
 }
 </style>
