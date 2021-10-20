@@ -15,12 +15,11 @@
       the labels on the home page ;)
     </p>
     <p>
-      Source Code -
       <a
         href="https://github.com/daltn/money-cat"
         rel="noopener noreferrer"
         target="_blank"
-        >https://github.com/daltn/money-cat</a
+        >source code</a
       >
     </p>
     <img src="~/assets/money-cat/mc-1.png" />

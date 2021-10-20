@@ -28,17 +28,3 @@
 </template>
 
 <script></script>
-
-<style scoped>
-li > a {
-  color: rgb(125, 238, 204);
-  text-decoration: none;
-  padding: 10px;
-  transition: all 420ms ease-out;
-}
-li > a:hover {
-  background: rgb(125, 238, 204);
-  color: #131313;
-  transition: all 420ms ease-in;
-}
-</style>

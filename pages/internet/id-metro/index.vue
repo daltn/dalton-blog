@@ -18,14 +18,21 @@
 
     <p>
       I helped build out the redesigned sites of Interior Design & Metropolis
-      Magazine. These sites are built using customized versions of Wordpress'
-      Gutenberg blocks. We utilized a shared repository between both sites since
-      dev happened simultaneously. We ripped open the source code of Gutenberg
-      and enjoyed using the functional patterns that the code base is built from
-      to create our own blocks. Shout out to Wordpress being open source. We
-      migrated over 1 million images and built out a templating system for all
-      of their legacy content. A cute moment is the red scrollbar I sprinkled
-      into Metro ;)
+      Magazine. These sites were made using customized versions of Wordpress'
+      <a
+        href="https://github.com/WordPress/gutenberg"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        Gutenberg Editor</a
+      >
+      blocks. We utilized a shared repository between both sites since dev
+      happened simultaneously. We ripped open the source code of gutenberg and
+      enjoyed using the functional patterns that the code base is built from to
+      create our own blocks. Shout out to Wordpress being open source. We built
+      out a templating system to display over a decade's worth of legacy content
+      while creating an avenue to enter the modular editing experience of
+      Gutenberg. A cute moment is the red scrollbar I sprinkled into Metro ;)
     </p>
     <p>
       Design & Dev by

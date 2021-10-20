@@ -12,12 +12,11 @@
       oscilloscope and a feedback delay :)
     </p>
     <p>
-      Source Code -
       <a
         href="https://github.com/daltn/m0n0"
         rel="noopener noreferrer"
         target="_blank"
-        >https://github.com/daltn/m0n0</a
+        >source code</a
       >
     </p>
     <img src="~/assets/m0n0synth/synth-1.png" />

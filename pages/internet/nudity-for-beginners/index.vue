@@ -22,12 +22,11 @@
       are then embedded & animated as a part of the music video.
     </p>
     <p>
-      Source Code -
       <a
         href="https://github.com/daltn/great-ghost"
         rel="noopener noreferrer"
         target="_blank"
-        >https://github.com/daltn/great-ghost</a
+        >source code</a
       >
     </p>
     <img src="~/assets/nudity/gg-1.png" />

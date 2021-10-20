@@ -22,12 +22,11 @@
       making this and return to it all the time to get visual inspiration.
     </p>
     <p>
-      Source Code -
       <a
         href="https://github.com/daltn/art-camp-lib"
         rel="noopener noreferrer"
         target="_blank"
-        >https://github.com/daltn/art-camp-lib</a
+        >source code</a
       >
     </p>
     <img src="~/assets/art-camp-lib/art-camp-01.png" />

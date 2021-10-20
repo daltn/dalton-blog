@@ -42,6 +42,13 @@ h1 {
   margin-bottom: 2rem;
 }
 
+@media only screen and (max-width: 600px) {
+  h1 {
+    font-size: 30px;
+    line-height: 35px;
+  }
+}
+
 img {
   width: 100%;
   height: auto;
@@ -73,7 +80,6 @@ a:hover {
 .box-link {
   color: rgb(125, 238, 204);
   text-decoration: none;
-  padding: 10px;
   transition: all 420ms ease-out;
 }
 
@@ -81,5 +87,14 @@ a:hover {
   background: rgb(125, 238, 204);
   color: #131313;
   transition: all 420ms ease-in;
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 600px) {
+  .box-link:hover {
+    background: inherit;
+    color: inherit;
+    transition: none;
+  }
 }
 </style>

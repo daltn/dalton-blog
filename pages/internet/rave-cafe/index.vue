@@ -23,12 +23,11 @@
       creating and inhabiting a vision with others.
     </p>
     <p>
-      Source Code -
       <a
         href="https://github.com/ravecafe/rave.cafe"
         rel="noopener noreferrer"
         target="_blank"
-        >https://github.com/ravecafe/rave.cafe</a
+        >source code</a
       >
     </p>
     <img src="~/assets/rave-cafe/rc-1.png" />

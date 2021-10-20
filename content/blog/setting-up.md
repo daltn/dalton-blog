@@ -5,18 +5,18 @@ description: a list of tools and extensions for configuring your development env
 
 ![green house roof](/images/16.jpg)
 
-I've compiled a list of sites, tools, and extensions I've enjoyed using for anyone looking to get started on their own development journey.
+I've compiled a list of sites, tools, and extensions I've enjoyed using for anyone looking to get started on their own software development journey.
 
 ### Learning
 
-Developing software means learning to learn. Visualization and teaching are the most direct ways to create new neural pathways. Create projects you'd want to use to flex your new skills and sprinkle [fun](https://media.giphy.com/media/26ufl1ASleVkA7wIg/giphy.mp4) into whatever you're doing. Jim Kwik's [Limitless](https://www.indiebound.org/book/9781401958237) is worth a read to kickstart your learning journey.
+Developing software means learning to learn. Visualization and teaching are the most direct ways to create new neural pathways. [Limitless](https://www.indiebound.org/book/9781401958237) by Jim Kwik is a fantastic book to kickstart your learning journey. Create projects you'd want to use to cement your skills and ensure to sprinkle [fun](https://media.giphy.com/media/26ufl1ASleVkA7wIg/giphy.mp4) into whatever you're doing.
 
-Tutorials
+### Tutorials
 
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Level Up](https://www.leveluptutorials.com/)
 
-Reading & Listening
+### Reading & Listening
 
 - [dev.to](https://dev.to/)
 - [CodeNewbie](https://www.codenewbie.org/)
@@ -24,7 +24,7 @@ Reading & Listening
 
 ### Playing & Prototyping
 
-Sites for when I want to play around or prototype an idea and not have to deal with environment config:
+Sites for when I want to play around or prototype an idea and not config a local dev environment:
 
 - [Glitch](https://glitch.com/)
 - [Replit](https://replit.com/)
@@ -32,9 +32,7 @@ Sites for when I want to play around or prototype an idea and not have to deal w
 
 ### Terminal
 
-I use the default mac terminal since I enjoy the winky sass the icon serves me and it does everything I want :) shout out to [iterm2](https://iterm2.com/) as a more fully featured option. I use [zsh](https://www.zsh.org/) with [oh my zsh](https://ohmyz.sh/)
-
-Xcode CLI tools: `xcode-select —-install`
+I use the mac terminal w/ [zsh](https://www.zsh.org/) with [oh my zsh](https://ohmyz.sh/). Shout out to [iterm2](https://iterm2.com/) as a more fully featured option.
 
 [Homebrew](https://brew.sh/) to download system packages
 
@@ -44,7 +42,7 @@ Xcode CLI tools: `xcode-select —-install`
 
 ### Text Editor
 
-[VS Code](https://code.visualstudio.com/) is fantastic. I love the git tooling where I can clearly review all my changes before committing them and all of the fun extensions that are available.
+[VS Code](https://code.visualstudio.com/) is fantastic. I love the git tooling where I can clearly review all my changes before committing them and the plethora of extensions that are available.
 
 Extensions:
 
