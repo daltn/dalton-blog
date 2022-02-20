@@ -2,7 +2,7 @@
   <section class="container">
     <h1>dalton saffe</h1>
     <div class="links">
-      <nuxt-link to="/blog">blog</nuxt-link>
+      <!-- <nuxt-link to="/blog">blog</nuxt-link> -->
       <nuxt-link to="/internet">internet</nuxt-link>
       <a href="mailto:daltonsaffe@gmail.com">contact</a>
     </div>
@@ -18,6 +18,7 @@ export default {}
   display: flex;
   justify-content: space-between;
   margin-top: 50px;
+  max-width: 400px;
 }
 .links a {
   color: rgb(125, 238, 204);
