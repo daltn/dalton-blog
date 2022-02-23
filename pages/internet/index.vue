@@ -16,11 +16,6 @@
       <li><nuxt-link to="/internet/harman">harman explore</nuxt-link></li>
       <li><nuxt-link to="/internet/money-cat">money cat records</nuxt-link></li>
       <li>
-        <nuxt-link to="/internet/nudity-for-beginners"
-          >nudity for beginners</nuxt-link
-        >
-      </li>
-      <li>
         <nuxt-link to="/internet/m0n0synth">m0n0synth</nuxt-link>
       </li>
     </ul>
